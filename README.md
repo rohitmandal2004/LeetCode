@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rohitmandal2004/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/rohitmandal2004/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohitmandal2004/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/rohitmandal2004/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rohitmandal2004/LeetCode/tree/master/0015-3sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rohitmandal2004/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
